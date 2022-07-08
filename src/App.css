@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+}
+
+html {
+  overflow: scroll;
+  max-width: 100%;
+  overflow-x: hidden;
+}
